@@ -1,0 +1,5 @@
+source_name,source_url,research_focus
+OAuth and Connected Apps,https://developer.salesforce.com/docs/platform/api-rest/guide/intro-oauth-and-connected-apps.html,Authentication methods
+REST API Quick Start,https://developer.salesforce.com/docs/platform/api-rest/guide/quickstart.html,API access and usage
+Which API Do I Use,https://help.salesforce.com/s/articleView?id=integrate_what_is_api.htm&language=en_US&type=5,Available API types
+API Basics,https://trailhead.salesforce.com/content/learn/modules/api_basics/api_basics_overview,API permissions and limits

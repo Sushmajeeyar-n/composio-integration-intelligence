@@ -1,0 +1,9 @@
+app_name,evidence_title,domain_check,relevance_check,review_note
+Salesforce,Get Started | Hosted MCP Servers | Salesforce Developers,Official,Relevant,Official documentation for Salesforce Hosted MCP
+Salesforce,Salesforce Docs MCP Server,Official,Not directly relevant,Provides documentation access rather than Salesforce CRM data operations
+Salesforce,Register External MCP Servers in API Catalog - Salesforce,Official,Partially relevant,Explains registering external MCP servers in Salesforce
+HubSpot,Authentication overview - HubSpot docs,Official,Relevant,Official developer authentication documentation
+HubSpot,Integrate AI tools with the HubSpot MCP server - HubSpot docs,Official,Relevant,Official documentation for HubSpot remote MCP
+HubSpot,"HubSpot Developer MCP server: URL, Auth and Tools (2026)",Third-party,Unverified,Requires cross-check against official documentation
+HubSpot,hubspot-mcp-extended/docs/HUBSPOT_AUTHENTICATION.md at main ...,Community,Unverified,Not authoritative evidence for HubSpot product capabilities
+HubSpot,HubSpot Remote MCP Server | Get Started | Postman API Network,Potentially official,Unverified,Check whether the workspace is officially maintained by HubSpot

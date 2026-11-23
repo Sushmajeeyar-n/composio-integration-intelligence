@@ -1,0 +1,301 @@
+﻿app_name,category,research_status,evidence_rank,evidence_title,evidence_url,priority_score,review_status
+Salesforce,CRM and Sales,Existing research - review,1,Get Started | Hosted MCP Servers | Salesforce Developers,https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/hosted-mcp-servers-overview.html,17,Needs human verification
+Salesforce,CRM and Sales,Existing research - review,2,How to Secure Salesforce Hosted MCP Servers,https://developer.salesforce.com/blogs/2026/06/how-to-secure-salesforce-hosted-mcp-servers,9,Needs human verification
+Salesforce,CRM and Sales,Existing research - review,3,Salesforce Docs MCP Server,https://mcp.dev.docs.salesforce.com/about/,9,Needs human verification
+HubSpot,CRM and Sales,Needs research,1,Integrate AI tools with the HubSpot MCP server - HubSpot docs,https://developers.hubspot.com/docs/apps/developer-platform/build-apps/integrate-with-the-remote-hubspot-mcp-server,13,Needs human verification
+HubSpot,CRM and Sales,Needs research,2,"HubSpot Developer MCP server: URL, Auth and Tools (2026)",https://www.developersdigest.tech/mcp-servers/hubspot-developer,11,Needs human verification
+HubSpot,CRM and Sales,Needs research,3,HubSpot MCP Server,https://developers.hubspot.com/ai-tools/mcp,9,Needs human verification
+Pipedrive,CRM and Sales,Needs research,1,Pipedrive API v1 Dev References (Oauth) - Learn - Test - Try Now,https://developers.pipedrive.com/docs/api/v1/Oauth,15,Needs human verification
+Pipedrive,CRM and Sales,Needs research,2,Pipedrive API Reference and Documentation,https://developers.pipedrive.com/docs/api/v1,15,Needs human verification
+Pipedrive,CRM and Sales,Needs research,3,OAuth authorization - Pipedrive Developer Documentation,https://pipedrive.readme.io/docs/marketplace-oauth-authorization,12,Needs human verification
+Attio,CRM and Sales,Needs research,1,Overview - Attio Docs,https://docs.attio.com/rest-api/overview,11,Needs human verification
+Attio,CRM and Sales,Needs research,2,MCP Integration | Attio,https://attio.com/apps/mcp,8,Needs human verification
+Attio,CRM and Sales,Needs research,3,attio-mcp-server/docs/guides/oauth-authentication.md at main ...,https://github.com/kesslerio/attio-mcp-server/blob/main/docs/guides/oauth-authentication.md,8,Needs human verification
+Twenty,CRM and Sales,Needs research,1,MCP Server - Twenty Documentation,https://docs.twenty.com/user-guide/ai/capabilities/mcp,15,Needs human verification
+Twenty,CRM and Sales,Needs research,2,Twenty Documentation · DocSearch MCP,https://docsearch.algolia.com/mcp/docs/website/twenty.com,15,Needs human verification
+Twenty,CRM and Sales,Needs research,3,APIs - Twenty Documentation,https://docs.twenty.com/developers/extend/api,13,Needs human verification
+Podio,CRM and Sales,Needs research,1,Authentication - Podio API Documentation,https://developers.podio.com/authentication? ,13,Needs human verification
+Podio,CRM and Sales,Needs research,2,Developers - Podio API Documentation,https://developers.podio.com/,9,Needs human verification
+Podio,CRM and Sales,Needs research,3,Podio MCP Server Integration Guide - Progress Software,https://www.progress.com/podio/documentation/using-podio/ai-and-mcp/podio-mcp-server-integration-guide,4,Needs human verification
+Zoho CRM,CRM and Sales,Needs research,1,Authentication - Zoho CRM API,https://zoho-crm-api.readthedocs.io/en/latest/authentication/,11,Needs human verification
+Zoho CRM,CRM and Sales,Needs research,2,OAuth 2.0 Authentication | Zoho CRM API | V8,https://www.zoho.com/crm/developer/docs/api/v8/oauth-overview.html,10,Needs human verification
+Zoho CRM,CRM and Sales,Needs research,3,Zoho CRM MCP - An Overview | Developer Tools,https://www.zoho.com/crm/developer/docs/mcp/overview.html,8,Needs human verification
+Close,CRM and Sales,Needs research,1,Close API Documentation - Close Developer Platform | Close,https://developer.close.com/,13,Needs human verification
+Close,CRM and Sales,Needs research,2,Close MCP Server | Close | Developer API Documentation,https://developer.close.com/mcp,11,Needs human verification
+Close,CRM and Sales,Needs research,3,Configure authentication for MCP and API plugins in agents,https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/plugin-authentication,8,Needs human verification
+Copper,CRM and Sales,Needs research,1,Copper Developer Documentation,https://usecopper.com/docs,12,Needs human verification
+Copper,CRM and Sales,Needs research,2,Overview - Copper Developer API,https://developer.copper.com/introduction/authentication.html,11,Needs human verification
+Copper,CRM and Sales,Needs research,3,Authentication - Copper Developer Portal,https://developer.copper.co/api-reference/authentication,11,Needs human verification
+DealCloud,CRM and Sales,Needs research,1,Authentication - DealCloud API Docs,https://api.docs.dealcloud.com/mcp/authentication,13,Needs human verification
+DealCloud,CRM and Sales,Needs research,2,Dealcloud Developer Documentation,https://api.docs.dealcloud.com/,13,Needs human verification
+DealCloud,CRM and Sales,Needs research,3,Authorization | Deel | Documentation,https://developer.deel.com/mcp/authorization,13,Needs human verification
+Zendesk,Support and Helpdesk,Needs research,1,Security and authentication | Zendesk Developer DocsHow can I authenticate API requests? - Zendesk helpUsing OAuth authentication with your application - Zendesk helpZendesk Authentication Setup - API_KEY Guide | PrimroseUnlocking new possibilities: Revolutionizing service with the ...API Reference - MCP Platform,https://developer.zendesk.com/api-reference/introduction/security-and-auth/,17,Needs human verification
+Zendesk,Support and Helpdesk,Needs research,2,Authentication | Zendesk Developer Docs,https://developer.zendesk.com/documentation/authentication/,15,Needs human verification
+Zendesk,Support and Helpdesk,Needs research,3,How can I authenticate API requests? - Zendesk help,https://support.zendesk.com/hc/en-us/articles/4408831452954-How-can-I-authenticate-API-requests,6,Needs human verification
+Intercom,Support and Helpdesk,Needs research,1,Authentication | Intercom and Fin Developer Platform,https://developers.intercom.com/docs/build-an-integration/learn-more/authentication,13,Needs human verification
+Intercom,Support and Helpdesk,Needs research,2,Model Context Protocol (MCP) | Intercom and Fin Developer ...,https://developers.intercom.com/docs/guides/mcp,11,Needs human verification
+Intercom,Support and Helpdesk,Needs research,3,Intercom MCP setup: authentication and connection guide,https://apitracker.io/mcp-guides/catalog/intercom-official,10,Needs human verification
+Freshdesk,Support and Helpdesk,Needs research,1,Freshdesk,https://developers.freshdesk.com/api/,9,Needs human verification
+Freshdesk,Support and Helpdesk,Needs research,2,Freshdesk Developers,https://developers.freshdesk.com/,7,Needs human verification
+Freshdesk,Support and Helpdesk,Needs research,3,MCP Integration: Frequently asked questions (FAQ) : Freshdesk ...,https://support.freshdesk.com/support/solutions/articles/50000014407-mcp-integration-frequently-asked-questions-faq-,4,Needs human verification
+Front,Support and Helpdesk,Needs research,1,Front MCP setup: authentication and connection guide,https://apitracker.io/mcp-guides/catalog/front,10,Needs human verification
+Front,Support and Helpdesk,Needs research,2,Authentication - Front Platform,https://dev.frontapp.com/docs/authentication,8,Needs human verification
+Front,Support and Helpdesk,Needs research,3,MCP Front - stainless-api.github.io,https://stainless-api.github.io/mcp-front/,8,Needs human verification
+Pylon,Support and Helpdesk,Needs research,1,API reference - Pylon,https://docs.usepylon.com/pylon-docs/developer/api/api-reference,13,Needs human verification
+Pylon,Support and Helpdesk,Needs research,2,API | Pylon,https://docs.usepylon.com/pylon-docs/developer/api,11,Needs human verification
+Pylon,Support and Helpdesk,Needs research,3,Pylon Developer Hub,https://getpylon.com/developers/,6,Needs human verification
+LiveAgent,Support and Helpdesk,Needs research,1,LiveAgent API,https://support.liveagent.com/docs/api/v3/,6,Needs human verification
+LiveAgent,Support and Helpdesk,Needs research,2,Configure authentication for MCP and API plugins in agents,https://learn.microsoft.com/en-us/plugins/plugin-authentication,6,Needs human verification
+LiveAgent,Support and Helpdesk,Needs research,3,MCP Integration for agents - support.liveagent.com,https://support.liveagent.com/647358-MCP-Integration-for-agents,4,Needs human verification
+Plain,Support and Helpdesk,Needs research,1,Configure authentication for MCP and API plugins in agents,https://learn.microsoft.com/en-us/plugins/plugin-authentication,6,Needs human verification
+Plain,Support and Helpdesk,Needs research,2,MCP OAuth: How MCP Authentication Works (2026) — Scalar,https://scalar.com/learn/mcp/mcp-oauth,6,Needs human verification
+Plain,Support and Helpdesk,Needs research,3,Troubleshoot MCP and API plugin authentication,https://learn.microsoft.com/en-us/plugins/plugin-authentication-troubleshooting,6,Needs human verification
+Help Scout,Support and Helpdesk,Needs research,1,Docs API Overview | Help Scout DevelopersDocs API - Help Scout SupportAuthentication - Scout – API & MCP DocumentationHelp Scout Authentication Setup - API_KEY Guide | PrimroseScout API & MCP Overview and Setup – Yext HelpHelp Scout MCP Server,https://developer.helpscout.com/docs-api/,17,Needs human verification
+Help Scout,Support and Helpdesk,Needs research,2,Help Scout Developers - API Documentation | Help Scout Developers,https://developer.helpscout.com/,13,Needs human verification
+Help Scout,Support and Helpdesk,Needs research,3,Authentication - Scout – API & MCP Documentation,https://docs.primerfp.com/mcp/authentication/,13,Needs human verification
+Gorgias,Support and Helpdesk,Needs research,1,Introduction - gorgias-developers,https://developers.gorgias.com/reference/introduction,13,Needs human verification
+Gorgias,Support and Helpdesk,Needs research,2,Developer resources - Gorgias,https://docs.gorgias.com/en-US/articles/developer-resources-18370,11,Needs human verification
+Gorgias,Support and Helpdesk,Needs research,3,gorgias-developers,https://developers.gorgias.com/,9,Needs human verification
+Gladly,Support and Helpdesk,Needs research,1,Calendly MCP Overview | Calendly | Developer Documentation,https://developer.calendly.com/docs/mcp/calendly-mcp-server,15,Needs human verification
+Gladly,Support and Helpdesk,Needs research,2,Gladly API,https://developer.gladly.com/rest/,9,Needs human verification
+Gladly,Support and Helpdesk,Needs research,3,Main Home - Gladly Developer,https://developer.gladly.com/,9,Needs human verification
+Slack,Communications and Messaging,Needs research,1,Authentication overview | Slack Developer Docs,https://docs.slack.dev/authentication/,9,Needs human verification
+Slack,Communications and Messaging,Needs research,2,Overview | Slack Developer Docs,https://docs.slack.dev/ai/slack-mcp-server/,9,Needs human verification
+Slack,Communications and Messaging,Needs research,3,Slack MCP setup: authentication and connection guide,https://apitracker.io/mcp-guides/catalog/slack-official,8,Needs human verification
+Twilio,Communications and Messaging,Needs research,1,Twilio MCP server,https://www.twilio.com/docs/ai/mcp,8,Needs human verification
+Twilio,Communications and Messaging,Needs research,2,"Docs: API Reference, Tutorials, and Integration | Twilio",https://www.twilio.com/docs,6,Needs human verification
+Twilio,Communications and Messaging,Needs research,3,Authentication and Authorization | twilio-labs/mcp | DeepWiki,https://deepwiki.com/twilio-labs/mcp/7.1-authentication-and-authorization,6,Needs human verification
+Zoho Cliq,Communications and Messaging,Needs research,1,Introduction | Zoho Cliq | API Documentation,https://www.zoho.com/cliq/help/restapi/v2/introduction/,8,Needs human verification
+Zoho Cliq,Communications and Messaging,Needs research,2,Rest API documentation | Cliq - Zoho,https://www.zoho.com/cliq/help/restapi/v2/,8,Needs human verification
+Zoho Cliq,Communications and Messaging,Needs research,3,Generating an OAuth 2 token for Cliq - Zoho Corporation,https://help.zoho.com/portal/en/community/topic/generating-an-oauth-2-token-for-cliq,8,Needs human verification
+Lark (Larksuite),Communications and Messaging,Needs research,1,OpenAPI MCP overview - Lark CLI - Documentation - Lark Developer,https://open.larksuite.com/document/uAjLw4CM/ukTMukTMukTM/mcp_integration/mcp_introduction,8,Needs human verification
+Lark (Larksuite),Communications and Messaging,Needs research,2,Lark Developer,https://open.larksuite.com/,6,Needs human verification
+Lark (Larksuite),Communications and Messaging,Needs research,3,Documentation - Lark Developer,https://open.larksuite.com/document/home/index?lang=en-US,4,Needs human verification
+Pumble,Communications and Messaging,Needs research,1,Pumble API reference,https://docs.pumble.com/,11,Needs human verification
+Pumble,Communications and Messaging,Needs research,2,Pumble API Overview - Pumble Help,https://pumble.com/help/integrations/automation-workflow-integrations/api-keys-integration/,6,Needs human verification
+Pumble,Communications and Messaging,Needs research,3,Pumble MCP Server and REST API | MCP.ai,https://mcp.ai/pumble,4,Needs human verification
+Discord,Communications and Messaging,Needs research,1,OAuth2 - Documentation - Discord,https://docs.discord.com/developers/topics/oauth2,17,Needs human verification
+Discord,Communications and Messaging,Needs research,2,API Reference - Documentation - Discord,https://docs.discord.com/developers/reference,15,Needs human verification
+Discord,Communications and Messaging,Needs research,3,Discord Developer Platform Documentation · DocSearch MCP,https://docsearch.algolia.com/mcp/docs/repo/discord/discord-api-docs,13,Needs human verification
+Telegram,Communications and Messaging,Needs research,1,User Authorization - Telegram APIsTelegram Gateway APITelegra APIAPI Documentation — GramClaw REST API & Telegram MCP | GramClawGitHub - sparfenyuk/mcp-telegram: MCP server to work with ...,https://core.telegram.org/api/auth,14,Needs human verification
+Telegram,Communications and Messaging,Needs research,2,Telegram Check API Authentication: REST Keys and MCP Bearer ...,https://tgvalidator.com/blog/telegram-check-api-authentication,6,Needs human verification
+Telegram,Communications and Messaging,Needs research,3,Telegram Gateway API,https://core.telegram.org/gateway/api,6,Needs human verification
+WhatsApp Business,Communications and Messaging,Needs research,1,WhatsApp Business Tools MCP | Meta for Developers,https://developers.facebook.com/documentation/mcp/whatsapp-business-tools-mcp/,13,Needs human verification
+WhatsApp Business,Communications and Messaging,Needs research,2,Authentication templates | Meta for Developers,https://developers.secure.facebook.com/documentation/business-messaging/whatsapp/templates/authentication-templates/authentication-templates,13,Needs human verification
+WhatsApp Business,Communications and Messaging,Needs research,3,WhatsApp Business Tools MCP - Meta for Developers,https://developers.facebook.com/documentation/mcp/whatsapp-business-tools-mcp.md/,11,Needs human verification
+Aircall,Communications and Messaging,Needs research,1,Aircall API Authentication - developer.aircall.io,https://developer.aircall.io/docs/authentication,13,Needs human verification
+Aircall,Communications and Messaging,Needs research,2,API References | Aircall,https://developers.aircall.io/api-references,11,Needs human verification
+Aircall,Communications and Messaging,Needs research,3,Basic Authentication | Aircall,https://developers.aircall.io/tutorials/basic-authentication,11,Needs human verification
+Vonage,Communications and Messaging,Needs research,1,How to Install the Vonage Documentation MCP Server,https://developer.vonage.com/en/mcp-server/how-to-guides/install-documentation-mcp-server,13,Needs human verification
+Vonage,Communications and Messaging,Needs research,2,Developer Documentation - Vonage API Developer,https://developer.vonage.com/en/documentation,11,Needs human verification
+Vonage,Communications and Messaging,Needs research,3,Vonage API Developer,https://developer.vonage.com/en/home,11,Needs human verification
+Google Ads,Marketing Ads Email and Social,Needs research,1,Google Ads MCP server: Developer integration guide,https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server,13,Needs human verification
+Google Ads,Marketing Ads Email and Social,Needs research,2,Google Ads API | Google for Developers,https://developers.google.com/google-ads/api,9,Needs human verification
+Google Ads,Marketing Ads Email and Social,Needs research,3,Authenticate to Google and Google Cloud MCP servers,https://docs.cloud.google.com/mcp/authenticate-mcp,9,Needs human verification
+Meta Ads,Marketing Ads Email and Social,Needs research,1,Get started - Meta for Developers,https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-mcp-server/ads-mcp-server-get-started/,15,Needs human verification
+Meta Ads,Marketing Ads Email and Social,Needs research,2,Authentication | Meta for Developers,https://developers.facebook.com/documentation/ads-commerce/marketing-api/get-started/authentication/,13,Needs human verification
+Meta Ads,Marketing Ads Email and Social,Needs research,3,Authentication - Meta for Developers,https://developers.secure.facebook.com/documentation/ads-commerce/marketing-api/get-started/authentication.md,13,Needs human verification
+LinkedIn Ads,Marketing Ads Email and Social,Needs research,1,Advertising API - LinkedIn,https://developer.linkedin.com/product-catalog/marketing/advertising-api,7,Needs human verification
+LinkedIn Ads,Marketing Ads Email and Social,Needs research,2,Developers | LinkedIn,https://www.linkedin.com/developers/tools/oauth,6,Needs human verification
+LinkedIn Ads,Marketing Ads Email and Social,Needs research,3,LinkedIn Marketing Developer Platform - API Documentation,https://learn.microsoft.com/en-us/linkedin/marketing/integrations/marketing-integrations-overview?view=li-lms-2025-10,6,Needs human verification
+GoHighLevel,Marketing Ads Email and Social,Needs research,1,HighLevel API Documentation - Developer Portal | HighLevel API,https://marketplace.gohighlevel.com/docs/,12,Needs human verification
+GoHighLevel,Marketing Ads Email and Social,Needs research,2,HighLevel API Documentation - HighLevel Support Portal,https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api-documentation,10,Needs human verification
+GoHighLevel,Marketing Ads Email and Social,Needs research,3,GitHub - S5-labs/ghl-api-mcp: Dockerized MCP server for ...,https://github.com/S5-labs/ghl-api-mcp,8,Needs human verification
+Mailchimp,Marketing Ads Email and Social,Needs research,1,Mailchimp API and MCP: Developer Guide 2026 - smtpedia.com,https://smtpedia.com/platforms/mailchimp/api/,10,Needs human verification
+Mailchimp,Marketing Ads Email and Social,Needs research,2,Mailchimp Developer Documentation,https://mailchimp.com/developer/,8,Needs human verification
+Mailchimp,Marketing Ads Email and Social,Needs research,3,"Mailchimp · API, MCP documentation and Intelligent Access ...",https://capalens.com/en/software/mailchimp,8,Needs human verification
+Klaviyo,Marketing Ads Email and Social,Needs research,1,Authenticate API requests - KlaviyoAPI overview - KlaviyoKlaviyo MCP serverMake API calls using OAuth - KlaviyoConnect to the MCP server - developers.klaviyo.comKlaviyo MCP server - developers.klaviyo.com,https://developers.klaviyo.com/en/docs/authenticate_,21,Needs human verification
+Klaviyo,Marketing Ads Email and Social,Needs research,2,API overview - Klaviyo,https://developers.klaviyo.com/en/reference/api_overview,15,Needs human verification
+Klaviyo,Marketing Ads Email and Social,Needs research,3,API Reference & Technical Guides | Klaviyo Developers,https://developers.klaviyo.com/,13,Needs human verification
+systeme.io,Marketing Ads Email and Social,Needs research,1,How to use the systeme.io public API (Application Programming ...,https://help.systeme.io/article/2323-how-to-use-systeme-io-public-api,8,Needs human verification
+systeme.io,Marketing Ads Email and Social,Needs research,2,registry/docs/reference/api/official-registry-api.md at main ...,https://github.com/modelcontextprotocol/registry/blob/main/docs/reference/api/official-registry-api.md,8,Needs human verification
+systeme.io,Marketing Ads Email and Social,Needs research,3,Understanding Authorization in MCP - Model Context Protocol,https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/authorization,4,Needs human verification
+Pinterest,Marketing Ads Email and Social,Needs research,1,Pinterest Developers,https://developers.pinterest.com/docs/mcp/,15,Needs human verification
+Pinterest,Marketing Ads Email and Social,Needs research,2,Pinterest Developers,https://developers.pinterest.com/docs/getting-started/authentication/,13,Needs human verification
+Pinterest,Marketing Ads Email and Social,Needs research,3,Pinterest Developers,https://developer.pinterest.com/docs/reference/apptype/,13,Needs human verification
+Threads (Meta),Marketing Ads Email and Social,Needs research,1,Get started with the Threads API | Meta for Developers,https://developers.facebook.com/documentation/threads/get-started/,15,Needs human verification
+Threads (Meta),Marketing Ads Email and Social,Needs research,2,Threads API | Meta for Developers,https://developers.facebook.com/documentation/threads/,13,Needs human verification
+Threads (Meta),Marketing Ads Email and Social,Needs research,3,Threads API - Meta for Developers,https://developers.secure.facebook.com/documentation/threads.md,11,Needs human verification
+SendGrid,Marketing Ads Email and Social,Needs research,1,SendGrid v3 API reference | SendGrid Docs | Twilio,https://www.twilio.com/docs/sendgrid/api-reference,10,Needs human verification
+SendGrid,Marketing Ads Email and Social,Needs research,2,Twilio SendGrid developer documentation,https://www.twilio.com/docs/sendgrid/for-developers,10,Needs human verification
+SendGrid,Marketing Ads Email and Social,Needs research,3,"SendGrid API 2026: v3 REST, 7 SDKs and MCP Status",https://smtpedia.com/platforms/sendgrid/api/,8,Needs human verification
+Shopify,Ecommerce,Needs research,1,"Shopify APIs, libraries, and tools",https://shopify.dev/docs/api,12,Needs human verification
+Shopify,Ecommerce,Needs research,2,Authenticate your agent - Shopify Developers Platform,https://shopify.dev/docs/agents/get-started/authentication,12,Needs human verification
+Shopify,Ecommerce,Needs research,3,Shopify Dev MCP Server - Official Documentation & API Tools ...,https://mcplane.com/mcp_servers/dev,8,Needs human verification
+WooCommerce,Ecommerce,Needs research,1,Authentication | WooCommerce developer docs,https://developer.woocommerce.com/docs/apis/rest-api/authentication/,11,Needs human verification
+WooCommerce,Ecommerce,Needs research,2,Model Context Protocol (MCP) Integration | WooCommerce ...,https://developer.woocommerce.com/docs/features/mcp/,9,Needs human verification
+WooCommerce,Ecommerce,Needs research,3,woocommerce/docs/features/mcp/README.md at trunk ... - GitHub,https://github.com/woocommerce/woocommerce/blob/trunk/docs/features/mcp/README.md,6,Needs human verification
+BigCommerce,Ecommerce,Needs research,1,MCP Overview - BigCommerce Docs,https://docs.bigcommerce.com/developer/api-reference/mcp/overview,13,Needs human verification
+BigCommerce,Ecommerce,Needs research,2,BigCommerce Developers | BigCommerce Docs,https://docs.bigcommerce.com/,11,Needs human verification
+BigCommerce,Ecommerce,Needs research,3,BigCommerce Authentication Setup - API_KEY Guide | Primrose,https://primrose.dev/mcp/bigcommerce/auth,6,Needs human verification
+Salesforce Commerce Cloud,Ecommerce,Needs research,1,Authorization | SCAPI | B2C Commerce API | Salesforce Developers,https://developer.salesforce.com/docs/commerce/commerce-api/guide/authorization.html,13,Needs human verification
+Salesforce Commerce Cloud,Ecommerce,Needs research,2,SCAPI | B2C Commerce API | Salesforce Developers,https://developer.salesforce.com/docs/commerce/commerce-api/guide/scapi-get-started.html,11,Needs human verification
+Salesforce Commerce Cloud,Ecommerce,Needs research,3,Salesforce Docs MCP Server,https://mcp.dev.docs.salesforce.com/about/,9,Needs human verification
+Magento (Adobe Commerce),Ecommerce,Needs research,1,REST API Overview - Adobe Inc.,https://developer.adobe.com/commerce/webapi/rest/,11,Needs human verification
+Magento (Adobe Commerce),Ecommerce,Needs research,2,Authentication - Adobe Inc.,https://developer.adobe.com/commerce/webapi/get-started/authentication/,9,Needs human verification
+Magento (Adobe Commerce),Ecommerce,Needs research,3,Adobe Commerce Docs MCP Server - GitHubAdobe Commerce Marketplace - Developer PortalGitHub - Codexpect/adobe-commerce-mcp,https://github.com/jigarkkarangiya/adobe-commerce-docs-mcp,8,Needs human verification
+Squarespace,Ecommerce,Needs research,1,"Squarespace Developer Platform: APIs, Apps, and Docs",https://developers.squarespace.com/mcp/overview,13,Needs human verification
+Squarespace,Ecommerce,Needs research,2,"Squarespace Developer Platform: APIs, Apps, and Docs",https://developers.squarespace.com/,13,Needs human verification
+Squarespace,Ecommerce,Needs research,3,Square Model Context Protocol Server - developer.squareup.com,https://developer.squareup.com/docs/mcp,11,Needs human verification
+Ecwid,Ecommerce,Needs research,1,REST API overview | REST API Reference | Ecwid Documentation,https://docs.ecwid.com/api-reference,13,Needs human verification
+Ecwid,Ecommerce,Needs research,2,Make your first API request | Ecwid Documentation,https://docs.ecwid.com/get-started/make-your-first-api-request,11,Needs human verification
+Ecwid,Ecommerce,Needs research,3,ecwid-api-docs/includes/_authentication.md at master - GitHub,https://github.com/Ecwid/ecwid-api-docs/blob/master/includes/_authentication.md,6,Needs human verification
+Gumroad,Ecommerce,Needs research,1,API Reference | rmarescu/gumroad-mcp | DeepWiki,https://deepwiki.com/rmarescu/gumroad-mcp/6-api-reference,12,Needs human verification
+Gumroad,Ecommerce,Needs research,2,"Gumroad API — Docs, OpenAPI & Kin Score | APIs.io",https://apis.io/providers/gumroad/,8,Needs human verification
+Gumroad,Ecommerce,Needs research,3,API - Gumroad,https://gumroad.com/api,4,Needs human verification
+Amazon Selling Partner,Ecommerce,Needs research,1,Selling Partner API,https://developer-docs.amazon/sp-api/,11,Needs human verification
+Amazon Selling Partner,Ecommerce,Needs research,2,Amazon Selling Partner API (SP-API) | Build & Automate ...,https://developer.amazonservices.com/,9,Needs human verification
+Amazon Selling Partner,Ecommerce,Needs research,3,Amazon-Services-API,https://developer-docs.amazon/,9,Needs human verification
+fanbasis,Ecommerce,Needs research,1,Authentication | Fullstory Developer Guide,https://developer.fullstory.com/mcp/authentication/,13,Needs human verification
+fanbasis,Ecommerce,Needs research,2,Fanvue API Documentation,https://api.fanvue.com/docs/mcp-server,8,Needs human verification
+fanbasis,Ecommerce,Needs research,3,Login - FanBasis API Docsv3,https://dev-docs.fanbasis.com/,7,Needs human verification
+DataForSEO,Data SEO and Scraping,Needs research,1,Authentication – DataForSEO API v.3,https://docs.dataforseo.com/v3/auth/,9,Needs human verification
+DataForSEO,Data SEO and Scraping,Needs research,2,DataForSEO API v.3,https://docs.dataforseo.com/v3/,7,Needs human verification
+DataForSEO,Data SEO and Scraping,Needs research,3,DataForSEO MCP – DataForSEO,https://dataforseo.com/help-center/category/mcp,4,Needs human verification
+SE Ranking,Data SEO and Scraping,Needs research,1,Getting started - SE Ranking Data API Documentation,https://seranking.com/api/data/getting-started/,6,Needs human verification
+SE Ranking,Data SEO and Scraping,Needs research,2,SE Ranking MCP: Setup & Configuration,https://seranking.com/api/integrations/mcp/,4,Needs human verification
+SE Ranking,Data SEO and Scraping,Needs research,3,API – Knowledge Base,https://help.seranking.com/hc/en-us/sections/21701343953180-API,4,Needs human verification
+Ahrefs,Data SEO and Scraping,Needs research,1,What is Ahrefs MCP | Ahrefs for Developers,https://docs.ahrefs.com/en/mcp/docs/introduction,13,Needs human verification
+Ahrefs,Data SEO and Scraping,Needs research,2,Ahrefs for Developers,https://docs.ahrefs.com/,11,Needs human verification
+Ahrefs,Data SEO and Scraping,Needs research,3,Ahrefs SEO API: SEO & AEO Data API for Developers,https://ahrefs.com/seo-api,8,Needs human verification
+MrScraper,Data SEO and Scraping,Needs research,1,API Overview | MrScraper Documentation,https://docs.mrscraper.com/docs/api/overview,11,Needs human verification
+MrScraper,Data SEO and Scraping,Needs research,2,Authentication | MrScraper Documentation,https://docs.mrscraper.com/docs/api/authentication,11,Needs human verification
+MrScraper,Data SEO and Scraping,Needs research,3,Overview | MrScraper Documentation,https://docs.mrscraper.com/,11,Needs human verification
+Apify,Data SEO and Scraping,Needs research,1,Apify Documentation,https://docs.apify.com/,13,Needs human verification
+Apify,Data SEO and Scraping,Needs research,2,Apify MCP server | Platform | Apify Documentation,https://docs.apify.com/mcp,11,Needs human verification
+Apify,Data SEO and Scraping,Needs research,3,MCP connectors | Platform | Apify Documentation,https://docs.apify.com/integrations/mcp-connectors,11,Needs human verification
+Firecrawl,Data SEO and Scraping,Needs research,1,Developers & MCP - Firecrawl Docs,https://docs.firecrawl.dev/use-cases/developers-mcp,13,Needs human verification
+Firecrawl,Data SEO and Scraping,Needs research,2,Firecrawl MCP: Get Started,https://docs.firecrawl.dev/mcp-server,9,Needs human verification
+Firecrawl,Data SEO and Scraping,Needs research,3,mcp-server-firecrawl/docs/api.md at main · Msparihar/mcp ...,https://github.com/Msparihar/mcp-server-firecrawl/blob/main/docs/api.md,6,Needs human verification
+Bright Data,Data SEO and Scraping,Needs research,1,Authentication - Bright Data Docs,https://docs.brightdata.com/api-reference/authentication,13,Needs human verification
+Bright Data,Data SEO and Scraping,Needs research,2,Bright Data MCP OAuth 2.1 setup - Bright Data Docs,https://docs.brightdata.com/products/mcp-server/remote/oauth,11,Needs human verification
+Bright Data,Data SEO and Scraping,Needs research,3,Bright Data MCP Server and REST API | MCP.ai,https://mcp.ai/brightdata/en,4,Needs human verification
+Sherlock,Data SEO and Scraping,Needs research,1,Configure authentication for MCP and API plugins in agents,https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/plugin-authentication,6,Needs human verification
+Sherlock,Data SEO and Scraping,Needs research,2,Troubleshoot MCP and API plugin authentication,https://learn.microsoft.com/en-us/plugins/plugin-authentication-troubleshooting,6,Needs human verification
+Sherlock,Data SEO and Scraping,Needs research,3,Sherlock MCP server · Apify,https://apify.com/misceres/sherlock/api/mcp,4,Needs human verification
+Waterfall.io,Data SEO and Scraping,Needs research,1,Authentication - WP Waterfall Docs,https://docs.wpwaterfall.com/developers/authentication,13,Needs human verification
+Waterfall.io,Data SEO and Scraping,Needs research,2,Connections | API reference | WP Waterfall Docs,https://docs.wpwaterfall.com/api-reference/connections,13,Needs human verification
+Waterfall.io,Data SEO and Scraping,Needs research,3,Authentication - Waterfall.io API Documentation,https://docs.waterfall.io/v1/authentication,11,Needs human verification
+Clay,Data SEO and Scraping,Needs research,1,Authentication - Clay docs,https://developers.clay.com/public-api/authentication,13,Needs human verification
+Clay,Data SEO and Scraping,Needs research,2,Overview - Clay docs,https://developers.clay.com/,11,Needs human verification
+Clay,Data SEO and Scraping,Needs research,3,Clay API Reference,https://api.clay.cl/v2/reference,6,Needs human verification
+GitHub,Developer Infra and Data Platforms,Needs research,1,Configure an MCP registry for your organization or enterprise,https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-mcp-usage/configure-mcp-registry,13,Needs human verification
+GitHub,Developer Infra and Data Platforms,Needs research,2,Configure authentication for MCP and API plugins in agents,https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/plugin-authentication,8,Needs human verification
+GitHub,Developer Infra and Data Platforms,Needs research,3,Authenticating to the REST API - GitHub Docs,https://docs.github.com/v3/auth,5,Needs human verification
+Vercel,Developer Infra and Data Platforms,Needs research,1,Vercel REST API Reference,https://vercel.com/docs/rest-api,8,Needs human verification
+Vercel,Developer Infra and Data Platforms,Needs research,2,Deploy MCP servers to Vercel,https://vercel.com/docs/mcp/deploy-mcp-servers-to-vercel,8,Needs human verification
+Vercel,Developer Infra and Data Platforms,Needs research,3,Build MCP servers and clients - vercel.com,https://vercel.com/docs/mcp,8,Needs human verification
+Netlify,Developer Infra and Data Platforms,Needs research,1,Netlify Documentation | Netlify Docs,https://docs.netlify.com/,11,Needs human verification
+Netlify,Developer Infra and Data Platforms,Needs research,2,Building MCPs with Netlify | Netlify Developers,https://developers.netlify.com/guides/write-mcps-on-netlify/,9,Needs human verification
+Netlify,Developer Infra and Data Platforms,Needs research,3,Netlify API documentation,https://open-api.netlify.com/#!/default,8,Needs human verification
+Cloudflare,Developer Infra and Data Platforms,Needs research,1,Handle OAuth with MCP servers · Cloudflare Agents docs,https://developers.cloudflare.com/agents/model-context-protocol/guides/oauth-mcp-client/,13,Needs human verification
+Cloudflare,Developer Infra and Data Platforms,Needs research,2,Cloudflare API | Cloudflare API,https://developers.cloudflare.com/api/overview/,11,Needs human verification
+Cloudflare,Developer Infra and Data Platforms,Needs research,3,Cloudflare API MCP Server,https://learn.cloudflare.com/courses/cloudflare-api-mcp-server-1,6,Needs human verification
+Supabase,Developer Infra and Data Platforms,Needs research,1,Auth - Supabase DocsSupabase MCP Server | Supabase DocsSupabase DocsGetting Started - Supabase DocsDeploy MCP servers | Supabase DocsSupabase API (v1),https://supabase.com/docs/guides/auth,14,Needs human verification
+Supabase,Developer Infra and Data Platforms,Needs research,2,Model Context Protocol (MCP) Authentication | Supabase Docs,https://supabase.com/docs/guides/auth/oauth-server/mcp-authentication,8,Needs human verification
+Supabase,Developer Infra and Data Platforms,Needs research,3,Supabase MCP Server | Supabase Docs,https://supabase.com/docs/guides/ai-tools/mcp,6,Needs human verification
+Neo4j,Developer Infra and Data Platforms,Needs research,1,"Neo4j API - Docs, SDKs & Integration",https://apitracker.io/a/neo4j,10,Needs human verification
+Neo4j,Developer Infra and Data Platforms,Needs research,2,HTTP Authentication - Neo4j MCP,https://neo4j.com/docs/mcp/current/authentication/,8,Needs human verification
+Neo4j,Developer Infra and Data Platforms,Needs research,3,Authentication | neo4j-contrib/mcp-neo4j | DeepWiki,https://deepwiki.com/neo4j-contrib/mcp-neo4j/6.1-authentication,8,Needs human verification
+Snowflake,Developer Infra and Data Platforms,Needs research,1,Snowflake-managed MCP server | Snowflake Documentation,https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp,13,Needs human verification
+Snowflake,Developer Infra and Data Platforms,Needs research,2,Authenticating Snowflake REST APIs with Snowflake,https://docs.snowflake.com/en/developer-guide/snowflake-rest-api/authentication,11,Needs human verification
+Snowflake,Developer Infra and Data Platforms,Needs research,3,Using Programmatic Access Tokens for REST API Authentication ...,https://community.snowflake.com/s/article/using-programmatic-access-tokens-for-rest-api-authentication-with-snowflake-managed-mcp-server,8,Needs human verification
+MongoDB Atlas,Developer Infra and Data Platforms,Needs research,1,Authentication | Atlas Admin API v2 documentation - MongoDB,https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2/authentication,12,Needs human verification
+MongoDB Atlas,Developer Infra and Data Platforms,Needs research,2,Atlas Administration API Authentication Methods - MongoDB,https://www.mongodb.com/docs/atlas/api/api-authentication/,8,Needs human verification
+MongoDB Atlas,Developer Infra and Data Platforms,Needs research,3,[Feature] Support Atlas CLI-style OAuth device flow auth ...,https://github.com/mongodb-js/mongodb-mcp-server/issues/1142,6,Needs human verification
+Datadog,Developer Infra and Data Platforms,Needs research,1,DatadogServiceDetails - AWS DevOps Agent,https://docs.aws.amazon.com/devopsagent/latest/APIReference/API_DatadogServiceDetails.html,11,Needs human verification
+Datadog,Developer Infra and Data Platforms,Needs research,2,Datadog MCP setup: authentication and connection guide,https://apitracker.io/mcp-guides/catalog/datadog-remote,10,Needs human verification
+Datadog,Developer Infra and Data Platforms,Needs research,3,Datadog API Reference,https://docs.datadoghq.com/api/latest/,9,Needs human verification
+Sentry,Developer Infra and Data Platforms,Needs research,1,API Reference - Sentry Docs,https://docs.sentry.io/api/,9,Needs human verification
+Sentry,Developer Infra and Data Platforms,Needs research,2,API Authentication - Sentry Docs,https://docs.sentry.io/api/auth/,9,Needs human verification
+Sentry,Developer Infra and Data Platforms,Needs research,3,Sentry MCP,https://mcp.sentry.dev/,6,Needs human verification
+Notion,Productivity and Project Management,Needs research,1,Notion - Affinity Developer Documentation,https://developer.affinity.co/pages/mcp/notion,15,Needs human verification
+Notion,Productivity and Project Management,Needs research,2,Build an MCP client that connects to Notion,https://developers.notion.com/guides/mcp/build-mcp-client,11,Needs human verification
+Notion,Productivity and Project Management,Needs research,3,Authorization - Notion API,https://developers.notion.com/guides/authorization/overview,11,Needs human verification
+Airtable,Productivity and Project Management,Needs research,1,MCP server overview - Airtable Developers,https://airtable.com/developers/agents/mcp/getting-started,10,Needs human verification
+Airtable,Productivity and Project Management,Needs research,2,Using the Airtable MCP server,https://support.airtable.com/articles/9897799762-using-the-airtable-mcp-server,8,Needs human verification
+Airtable,Productivity and Project Management,Needs research,3,Authentication - Airtable MCP,https://www.airtablemcp.com/docs/authentication,8,Needs human verification
+Linear,Productivity and Project Management,Needs research,1,Authentication — OpenLinear MCP,https://docs.openlinear.tech/authentication,11,Needs human verification
+Linear,Productivity and Project Management,Needs research,2,MCP server – Linear Docs,https://linear.app/docs/mcp,10,Needs human verification
+Linear,Productivity and Project Management,Needs research,3,Linear Developers,https://linear.app/developers,10,Needs human verification
+Jira,Productivity and Project Management,Needs research,1,Authentication and authorization - developer.atlassian.com,https://developer.atlassian.com/cloud/rovo-mcp/guides/authentication-and-authorization/,13,Needs human verification
+Jira,Productivity and Project Management,Needs research,2,Basic auth for REST APIs - Atlassian,https://developer.atlassian.com/cloud/jira/platform/basic-auth-for-rest-apis/,9,Needs human verification
+Jira,Productivity and Project Management,Needs research,3,Authentication - MCP Atlassian,https://mcp-atlassian.soomiles.com/docs/authentication,8,Needs human verification
+Asana,Productivity and Project Management,Needs research,1,Integrating with Asana's MCP Server - developers.asana.com,https://developers.asana.com/docs/integrating-with-asanas-mcp-server,13,Needs human verification
+Asana,Productivity and Project Management,Needs research,2,Connect Asana - MCP Manager,https://docs.mcpmanager.ai/mcp-server-guides/asana,13,Needs human verification
+Asana,Productivity and Project Management,Needs research,3,Using Asana's MCP Server,https://developers.asana.com/docs/using-asanas-mcp-server,11,Needs human verification
+Monday.com,Productivity and Project Management,Needs research,1,Authentication - monday.com Platform APIGet started with monday MCP – Supportmonday MCP: Connect AI assistants to your accountmonday.com - Connectors | Microsoft Learn - learn.microsoft.comAPI – Support - monday.com[DOCS]: monday.com MCP server integration #916 - GitHub,https://developer.monday.com/api-reference/docs/authentication,19,Needs human verification
+Monday.com,Productivity and Project Management,Needs research,2,Integrate with the monday MCP server - developer.monday.com,https://developer.monday.com/api-reference/docs/integrate-with-monday-mcp,15,Needs human verification
+Monday.com,Productivity and Project Management,Needs research,3,Get started with monday MCP – Support,https://support.monday.com/hc/en-us/articles/28588158981266-Get-started-with-monday-MCP,6,Needs human verification
+ClickUp,Productivity and Project Management,Needs research,1,Authentication - ClickUp API Documentation,https://developer.clickup.com/docs/authentication,15,Needs human verification
+ClickUp,Productivity and Project Management,Needs research,2,ClickUp's MCP Server,https://developer.clickup.com/docs/connect-an-ai-assistant-to-clickups-mcp-server,15,Needs human verification
+ClickUp,Productivity and Project Management,Needs research,3,API – ClickUp Help,https://help.clickup.com/hc/en-us/sections/6131847925911-API,4,Needs human verification
+Coda,Productivity and Project Management,Needs research,1,Coda Authentication Setup - API_KEY Guide | Primrose,https://primrose.dev/mcp/coda/auth,6,Needs human verification
+Coda,Productivity and Project Management,Needs research,2,"Coda MCP Server: URL, Auth & Setup | mcptest.io",https://mcptest.io/servers/coda/,6,Needs human verification
+Coda,Productivity and Project Management,Needs research,3,MCP Integration - Docs | Coda,https://usecoda.dev/docs/mcp,4,Needs human verification
+Smartsheet,Productivity and Project Management,Needs research,1,Smartsheet Developers & API,https://developers.smartsheet.com/,13,Needs human verification
+Smartsheet,Productivity and Project Management,Needs research,2,Authentication - developers.smartsheet.com,https://developers.smartsheet.com/api/smartsheet/guides/basics/authentication,11,Needs human verification
+Smartsheet,Productivity and Project Management,Needs research,3,Authentication Mastery with Smartsheet API,https://www.smartsheet.com/content-center/managing-work/it-management/authentication-mastery-smartsheet-api,8,Needs human verification
+Harvest,Productivity and Project Management,Needs research,1,Authentication – Harvest API V2 DocumentationAuthentication – Harvest API V2 DocumentationHarvest API Documentation - API - HARVEST.comGitHub - m2avc/harvest-mcp: Agent Plugin packaging Harvest's ...The Harvest API – Harvest Help Center,https://help.getharvest.com/api-v2/authentication-api/authentication/authentication/,14,Needs human verification
+Harvest,Productivity and Project Management,Needs research,2,Developer API - Harvest AI,https://tryharvest.ai/docs/api,8,Needs human verification
+Harvest,Productivity and Project Management,Needs research,3,Authentication – Harvest API V2 Documentation,https://help.getharvest.com/api-v2/authentication-api/,6,Needs human verification
+Stripe,Finance and Fintech,Needs research,1,Model Context Protocol (MCP) | Stripe Documentation,https://docs.stripe.com/mcp,11,Needs human verification
+Stripe,Finance and Fintech,Needs research,2,API Reference - Stripe,https://docs.stripe.com/api,11,Needs human verification
+Stripe,Finance and Fintech,Needs research,3,API : Stripe: Help & Support,https://support.stripe.com/topics/api,8,Needs human verification
+Plaid,Finance and Fintech,Needs research,1,Plaid Developer Tools — MCP,https://integrations.sh/plaid.com/plaid-developer-tools/,10,Needs human verification
+Plaid,Finance and Fintech,Needs research,2,API - Overview | Plaid Docs,https://plaid.com/docs/api/,6,Needs human verification
+Plaid,Finance and Fintech,Needs research,3,Resources - MCP Server | Plaid Docs,https://plaid.com/docs/resources/mcp/,6,Needs human verification
+Binance,Finance and Fintech,Needs research,1,Binance Developer Documentation | Binance Developer Docs,https://developers.binance.com/en/docs/introduction,15,Needs human verification
+Binance,Finance and Fintech,Needs research,2,MCP Server | Binance Developer Docs,https://developers.binance.com/en/docs/agent-native/mcp-server,13,Needs human verification
+Binance,Finance and Fintech,Needs research,3,Binance Developer Docs,https://developers.binance.info/docs/,13,Needs human verification
+Paygent Connect,Finance and Fintech,Needs research,1,Backend API Reference - Paygent Documentation,https://docs.paygent.to/reference/api-reference/,11,Needs human verification
+Paygent Connect,Finance and Fintech,Needs research,2,Authentication | Paygent Documentation,https://docs.withpaygent.com/cli/commands/authentication,11,Needs human verification
+Paygent Connect,Finance and Fintech,Needs research,3,PayAgent Developer Documentation - API Reference & SDK Guide,https://www.payagent.co/docs,10,Needs human verification
+iPayX,Finance and Fintech,Needs research,1,Welcome to iPay | iPay API Documentation,https://docs.i-pay.io/,9,Needs human verification
+iPayX,Finance and Fintech,Needs research,2,FX Audit API & MCP — Developer Documentation — iPayX,https://www.ipayx.ai/integrations,8,Needs human verification
+iPayX,Finance and Fintech,Needs research,3,iPayX MCP Server — Documentation,https://www.ipayx.ai/docs/mcp-server?lang=en,6,Needs human verification
+QuickBooks,Finance and Fintech,Needs research,1,QuickBooks API: Complete Developer's Guide (2026 ... - DEV ...,https://dev.to/zuplo/quickbooks-api-complete-developers-guide-2026-3l77,10,Needs human verification
+QuickBooks,Finance and Fintech,Needs research,2,Hosted QuickBooks MCP: supported authentication for ...,https://help.developer.intuit.com/s/question/0D5TR00001YU9WQ0A1/hosted-quickbooks-mcp-supported-authentication-for-independent-clients,9,Needs human verification
+QuickBooks,Finance and Fintech,Needs research,3,Intuit Developer,https://developer.intuit.com/app/developer/qbo/docs/develop,7,Needs human verification
+Xero,Finance and Fintech,Needs research,1,"Xero Developer Remote MCP server: URL, Auth and Tools (2026)",https://www.developersdigest.tech/mcp-servers/xero-remote,11,Needs human verification
+Xero,Finance and Fintech,Needs research,2,Xero Developer Remote MCP — Xero Developer,https://developer.xero.com/documentation/guides/remote-mcp/overview/,9,Needs human verification
+Xero,Finance and Fintech,Needs research,3,Remote MCP FAQs — Xero Developer,https://developer.xero.com/faq/remote-mcp,9,Needs human verification
+Brex,Finance and Fintech,Needs research,1,Brex MCP,https://developer.brex.com/docs/mcp,11,Needs human verification
+Brex,Finance and Fintech,Needs research,2,Authentication - Brex Developer API,https://developer.brex.com/guides/authentication,9,Needs human verification
+Brex,Finance and Fintech,Needs research,3,Brex API,https://www.brex.com/support/brex-api,8,Needs human verification
+Ramp,Finance and Fintech,Needs research,1,Authorization — Ramp API docs,https://docs.ramp.com/developer-api/v1/authorization,13,Needs human verification
+Ramp,Finance and Fintech,Needs research,2,MCP — Ramp API docs,https://docs.ramp.com/developer-api/v1/developer-mcp,11,Needs human verification
+Ramp,Finance and Fintech,Needs research,3,Developer Platform - ramp.com,https://ramp.com/developer-tools,6,Needs human verification
+PitchBook,Finance and Fintech,Needs research,1,"PitchBook API Documentationmcp-proxy-external.pitchbook.comHelp: Getting started with PitchBook’s Premium ConnectorPitchBook API Authentication | APIs.ioPitchBook API — Docs, Endpoints & OpenAPI | APIs.ioPitchBook API - Documentation & Integration",https://documenter.getpostman.com/view/5190535/TzCV1iRc,18,Needs human verification
+PitchBook,Finance and Fintech,Needs research,2,mcp-proxy-external.pitchbook.com,https://mcp-proxy-external.pitchbook.com/,8,Needs human verification
+PitchBook,Finance and Fintech,Needs research,3,PitchBook API Authentication | APIs.io,https://apis.io/security/pitchbook/pitchbook-authentication/,4,Needs human verification
+NotebookLM,AI Research and Media-native,Needs research,1,NotebookLM API Reference | jacob-bd/notebooklm-mcp | DeepWiki,https://deepwiki.com/jacob-bd/notebooklm-mcp/7-notebooklm-api-reference,10,Needs human verification
+NotebookLM,AI Research and Media-native,Needs research,2,Notebooklm-mcp/docs/AUTHENTICATION.md at main - GitHub,https://github.com/ran-ai-agency/Notebooklm-mcp/blob/main/docs/AUTHENTICATION.md,6,Needs human verification
+NotebookLM,AI Research and Media-native,Needs research,3,notebooklm-mcp-cli/docs/AUTHENTICATION.md at main · 0xyush ...,https://github.com/0xyush/notebooklm-mcp-cli/blob/main/docs/AUTHENTICATION.md,6,Needs human verification
+Otter AI,AI Research and Media-native,Needs research,1,Authentication | Otter API Docs,https://connect.tryotter.com/docs/guides-authentication/,6,Needs human verification
+Otter AI,AI Research and Media-native,Needs research,2,API Reference - Otter,https://www.otterab.com/api-docs,6,Needs human verification
+Otter AI,AI Research and Media-native,Needs research,3,Otter.ai Public API – Help Center,https://help.otter.ai/hc/en-us/articles/36130822688279-Otter-ai-Public-API,6,Needs human verification
+Fathom,AI Research and Media-native,Needs research,1,Overview - Fathom API,https://developers.fathom.ai/mcp-docs,13,Needs human verification
+Fathom,AI Research and Media-native,Needs research,2,API Documentation - Fathom AI MCP Server,https://www.fathom-mcp-server.com/docs,10,Needs human verification
+Fathom,AI Research and Media-native,Needs research,3,Api overview - Fathom API - developers.fathom.ai,https://developers.fathom.ai/api-overview,9,Needs human verification
+Consensus,AI Research and Media-native,Needs research,1,Connection reference - Consensus,https://docs.consensus.app/enterprise/connection-reference,11,Needs human verification
+Consensus,AI Research and Media-native,Needs research,2,The Consensus API | The Consensus Help Center,https://help.consensus.app/en/articles/16516328-the-consensus-api,8,Needs human verification
+Consensus,AI Research and Media-native,Needs research,3,consensus-oauth-guide for V2 API,https://support.goconsensus.com/hubfs/consensus-oauth-guide+for+V2+API+(1).pdf,8,Needs human verification
+Reducto,AI Research and Media-native,Needs research,1,Reducto MCP Server | Reducto Documentation,https://docs.reducto.ai/mcp-server,9,Needs human verification
+Reducto,AI Research and Media-native,Needs research,2,API Quickstart | Reducto Documentation,https://docs.reducto.ai/quickstart,9,Needs human verification
+Reducto,AI Research and Media-native,Needs research,3,Developers | Reducto — The Agentic Document Platform API,https://reducto.ai/developers,8,Needs human verification
+Devin,AI Research and Media-native,Needs research,1,Authentication - Devin Docs,https://docs.devin.ai/api-reference/authentication,11,Needs human verification
+Devin,AI Research and Media-native,Needs research,2,Connect Devin to PrompTessor MCP | PrompTessor Developers,https://promptessor.com/dev/docs/mcp/integrations/devin,8,Needs human verification
+Devin,AI Research and Media-native,Needs research,3,Devin MCP - Devin Docs,https://docs.devin.ai/work-with-devin/devin-mcp,7,Needs human verification
+higgsfield,AI Research and Media-native,Needs research,1,Authentication - Higgsfield API Docs,https://docs.higgsfield.ai/docs/authentication,9,Needs human verification
+higgsfield,AI Research and Media-native,Needs research,2,How the API works - Higgsfield API Docs,https://docs.higgsfield.ai/docs/how-to/introduction,9,Needs human verification
+higgsfield,AI Research and Media-native,Needs research,3,API reference - Higgsfield API Docs,https://docs.higgsfield.ai/docs/api-reference/overview,9,Needs human verification
+Mermaid CLI,AI Research and Media-native,Needs research,1,Authentication — MERMAID API documentation,https://mermaid-api.readthedocs.io/en/latest/authentication.html,11,Needs human verification
+Mermaid CLI,AI Research and Media-native,Needs research,2,MCP Server Documentation · TryMermaid,https://trymermaid.app/docs/mcp,8,Needs human verification
+Mermaid CLI,AI Research and Media-native,Needs research,3,MCP Server — Mermaid Chart,https://mermaid.ai/docs/ai/mcp-server,6,Needs human verification
+YouTube Transcript,AI Research and Media-native,Needs research,1,"YouTube Transcript API Reference | TranscriptAPI.comYouTube MCP server reference: tools, auth, limitsYouTube Transcript MCP Server - GitHubYouTube Transcript API Docs: Endpoints, Examples & MCPDeveloper Docs: YouTube Transcript API and MCP | YoutubeToTextAPI Documentation - YouTube Transcript API | Creator Research",https://transcriptapi.com/docs/api/,16,Needs human verification
+YouTube Transcript,AI Research and Media-native,Needs research,2,TranscriptAPI Documentation | TranscriptAPI.com,https://transcriptapi.com/docs/,12,Needs human verification
+YouTube Transcript,AI Research and Media-native,Needs research,3,"YouTube MCP server reference: tools, auth, limits",https://youtubetranscriptapi.com/docs/mcp,10,Needs human verification
+Grain,AI Research and Media-native,Needs research,1,Overview — Grain Developers,https://developers.grain.com/,13,Needs human verification
+Grain,AI Research and Media-native,Needs research,2,Authentication - Grain Developer Portal,https://docs.grainfinance.co/api-reference/authentication,13,Needs human verification
+Grain,AI Research and Media-native,Needs research,3,Authentication — Grain Developers,https://developers.grain.com/authentication.html,13,Needs human verification

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Integration Intelligence | Composio Research</title>
+<style>
+:root {
+  --bg:#0b1020; --panel:#121a2e; --line:#26334d;
+  --text:#edf2ff; --muted:#9baac4; --accent:#8b9cff;
+  --green:#65d6a3; --amber:#f5c46b;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;background:var(--bg);color:var(--text);
+  font-family:Inter,system-ui,-apple-system,sans-serif;
+  line-height:1.6;
+}
+main{max-width:1100px;margin:auto;padding:48px 24px 80px}
+.eyebrow{color:var(--accent);font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+h1{font-size:clamp(38px,7vw,68px);line-height:1.05;letter-spacing:-2px;margin:16px 0}
+h2{font-size:26px;letter-spacing:-.6px;margin:0 0 12px}
+h3{font-size:17px;margin:0 0 8px}
+p{color:var(--muted);margin:8px 0}
+.hero{padding:45px 0 35px;max-width:850px}
+.hero p{font-size:18px;max-width:760px}
+.tag{
+ display:inline-block;border:1px solid var(--line);border-radius:30px;
+ padding:5px 12px;color:var(--muted);font-size:12px;margin:5px 5px 0 0
+}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:26px 0}
+.card{
+ background:var(--panel);border:1px solid var(--line);
+ border-radius:16px;padding:20px
+}
+.metric{font-size:34px;font-weight:750;letter-spacing:-1px}
+.metric-label{font-size:13px;color:var(--muted)}
+section{margin-top:58px}
+.section-intro{max-width:760px;margin-bottom:20px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.bar{height:9px;background:#27334a;border-radius:20px;overflow:hidden;margin:12px 0}
+.bar span{display:block;height:100%;background:var(--accent)}
+.note{border-left:3px solid var(--amber);padding:12px 16px;background:#191d2b;border-radius:0 10px 10px 0;color:#d8deed}
+.good{color:var(--green)} .warn{color:var(--amber)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600}
+.table-wrap{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:14px}
+.pill{font-size:11px;padding:3px 8px;border-radius:20px;background:#20352f;color:var(--green);white-space:nowrap}
+.pill.warn{background:#392f20;color:var(--amber)}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.step-number{color:var(--accent);font-size:12px;font-weight:800;letter-spacing:1px}
+a{color:#aebaff;overflow-wrap:anywhere}
+footer{margin-top:70px;padding-top:22px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+@media(max-width:750px){
+ main{padding:28px 17px 55px}
+ .grid{grid-template-columns:repeat(2,1fr)}
+ .two,.steps{grid-template-columns:1fr}
+ th,td{min-width:130px}
+}
+</style>
+</head>
+<body>
+<main>
+
+<header class="hero">
+ <div class="eyebrow">Composio · AI Product Operations · Take-home</div>
+ <h1>Integration<br>Intelligence.</h1>
+ <p>
+  A research pipeline for evaluating how buildable third-party app
+  integrations are for AI agents — from authentication and API access
+  to MCP support and the blockers that determine implementation effort.
+ </p>
+ <span class="tag">100 apps in scope</span>
+ <span class="tag">10 categories</span>
+ <span class="tag">Evidence-led workflow</span>
+</header>
+
+<section>
+ <div class="eyebrow">01 / Research snapshot</div>
+ <h2>From app discovery to evidence collection</h2>
+ <p class="section-intro">
+  The first research pass searched 100 apps and collected 500 candidate
+  results. A second pass used a relevance-oriented scoring heuristic
+  to collect another 500 candidates. These are research leads, not
+  1,000 verified facts.
+ </p>
+ <div class="grid">
+  <div class="card"><div class="metric">100</div><div class="metric-label">Apps searched</div></div>
+  <div class="card"><div class="metric">500</div><div class="metric-label">First-pass results</div></div>
+  <div class="card"><div class="metric">500</div><div class="metric-label">Second-pass results</div></div>
+  <div class="card"><div class="metric">300</div><div class="metric-label">Prioritized evidence links queued</div></div>
+ </div>
+ <div class="note">
+  <strong>Scope limitation:</strong> The pipeline has not yet completed
+  structured authentication, access-model, API, MCP and buildability
+  research for all 100 apps. Unknowns must remain unknown until verified.
+ </div>
+</section>
+
+<section>
+ <div class="eyebrow">02 / Research framework</div>
+ <h2>What makes an integration buildable?</h2>
+ <div class="grid">
+  <div class="card"><h3>Authentication</h3><p>OAuth 2.0, API keys, tokens, Basic auth or other methods. What credentials does an agent need?</p></div>
+  <div class="card"><h3>Access model</h3><p>Can a developer self-serve credentials, or are paid plans, admin approval or sales contact required?</p></div>
+  <div class="card"><h3>API surface</h3><p>Is there a documented REST or GraphQL API? What breadth of operations is available?</p></div>
+  <div class="card"><h3>MCP support</h3><p>Does an official or community MCP server exist? What tools and capabilities does it expose?</p></div>
+ </div>
+ <div class="card">
+  <h3>Final buildability assessment</h3>
+  <p>
+   Each app should receive a verdict supported by its evidence:
+   integration readiness, access constraints, API coverage, MCP availability
+   and the main implementation blocker.
+  </p>
+ </div>
+</section>
+
+<section>
+ <div class="eyebrow">03 / Research workflow</div>
+ <h2>A repeatable evidence pipeline</h2>
+ <div class="steps">
+  <div class="card"><div class="step-number">STEP 01</div><h3>Discover</h3><p>Read the 100-app input list and search official developer, API, authentication and MCP documentation.</p></div>
+  <div class="card"><div class="step-number">STEP 02</div><h3>Prioritize</h3><p>Score candidate results using documentation-related keywords and domain signals. Keep original evidence for comparison.</p></div>
+  <div class="card"><div class="step-number">STEP 03</div><h3>Verify</h3><p>Compare source identity and relevance against documentation. A human must confirm the facts before they enter the final research table.</p></div>
+ </div>
+ <p style="margin-top:18px">
+  Implementation: Python, CSV, DuckDuckGo search (DDGS), URL-domain parsing
+  and a human review log.
+ </p>
+</section>
+
+<section>
+ <div class="eyebrow">04 / Verification</div>
+ <h2>What the first review revealed</h2>
+ <p class="section-intro">
+  Eight candidate records from Salesforce and HubSpot were manually
+  reviewed. Seven had a definite official/non-official label; one
+  potentially official source was excluded from scoring.
+ </p>
+ <div class="two">
+  <div class="card">
+   <div class="metric">7 / 7</div>
+   <h3>Classification agreement</h3>
+   <p>100% agreement on this small scored sample only. This is not an accuracy estimate for all 500 results.</p>
+  </div>
+  <div class="card">
+   <h3>Human relevance review</h3>
+   <p><strong>3</strong> relevant</p>
+   <p><strong>1</strong> not directly relevant</p>
+   <p><strong>1</strong> partially relevant</p>
+   <p><strong>3</strong> unverified</p>
+  </div>
+ </div>
+ <div class="note" style="margin-top:16px">
+  <strong>Key lesson:</strong> An official domain does not guarantee that
+  a page supports the specific integration claim. For example, a
+  documentation MCP server is not the same as an MCP server that exposes
+  CRM record operations. Source authority and claim relevance need separate checks.
+ </div>
+</section>
+
+<section>
+ <div class="eyebrow">05 / Verified example</div>
+ <h2>Salesforce: a deeper evidence-backed case</h2>
+ <p>
+  Salesforce is the only app with a completed detailed research record
+  at this stage. Its findings illustrate why authentication, permissions,
+  API access and MCP availability must be considered together.
+ </p>
+ <div class="card">
+  <h3>Authentication</h3>
+  <p>OAuth 2.0 is used to authorize client applications accessing REST API resources.</p>
+  <p><a href="https://developer.salesforce.com/docs/platform/api-rest/guide/intro-oauth-and-connected-apps.html" target="_blank" rel="noopener">Salesforce OAuth and Connected Apps documentation ↗</a></p>
+  <h3 style="margin-top:20px">API access constraints</h3>
+  <p>API access is enabled by default in Enterprise, Performance, Unlimited and Developer Edition orgs. Professional Edition requires an API add-on. Users also need the API Enabled permission.</p>
+  <p><a href="https://developer.salesforce.com/docs/platform/api-rest/guide/intro-rest-compatible-editions.html" target="_blank" rel="noopener">Salesforce supported editions and permissions ↗</a></p>
+  <h3 style="margin-top:20px">Hosted MCP</h3>
+  <p>Salesforce provides standard hosted MCP servers. They are disabled by default and require administrator activation. Tool calls respect Salesforce permissions and sharing controls.</p>
+  <p><a href="https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/servers-reference.html" target="_blank" rel="noopener">Salesforce standard MCP server reference ↗</a></p>
+  <h3 style="margin-top:20px">SObject All</h3>
+  <p>The documented server includes tools for schema discovery, SOQL queries, searching, record creation, updates, deletion and related-record operations.</p>
+  <p><a href="https://developer.salesforce.com/docs/platform/hosted-mcp-servers/references/reference/sobject-all.html" target="_blank" rel="noopener">SObject All tool reference ↗</a></p>
+  <span class="pill">Strong candidate</span>
+  <p class="warn" style="margin-top:12px">Main blockers: edition/API access restrictions, OAuth setup, user permissions and administrator activation of hosted MCP servers.</p>
+ </div>
+</section>
+
+<section>
+ <div class="eyebrow">06 / Limitations and next work</div>
+ <h2>What remains to be established</h2>
+ <div class="card">
+  <ul style="color:var(--muted);padding-left:20px">
+   <li>Complete structured research for the remaining 99 apps.</li>
+   <li>Verify credential availability and paid-plan requirements from current official documentation.</li>
+   <li>Confirm API breadth and distinguish official MCP servers from community implementations.</li>
+   <li>Expand the human-reviewed sample across categories and compare the second-pass ranking against the first.</li>
+   <li>Calculate category-level patterns and evidence-backed buildability recommendations.</li>
+  </ul>
+ </div>
+ <p style="margin-top:16px">
+  No unsupported access claims or buildability verdicts are inferred from
+  search snippets alone. Missing evidence is a research gap, not proof
+  that an integration is impossible.
+ </p>
+</section>
+
+<footer>
+ <strong>Integration Intelligence</strong> · Research prototype for Composio AI Product Operations.
+ <br>Built with Python-based evidence discovery, heuristic ranking and human verification.
+</footer>
+
+</main>
+</body>
+</html>
